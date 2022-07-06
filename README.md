@@ -7,7 +7,7 @@ Can be used to create humouristic text convienetly in French and English.
 ```
 const doIt = require('moi-l-sac');
 
-doIt('Hiers j'ai manger un vraiment bon steak');   // => "Mange moi l'sac"
+doIt('Hier j'ai mangé un vraiment bon steak');   // => "Mange moi l'sac"
 
 ```
 
@@ -17,5 +17,4 @@ Use at your own risk in conversations. You being terminated by using this module
 
 ## Why would you build this ?
 
-Build moi l'sac
-
+Build-moi l'sac
