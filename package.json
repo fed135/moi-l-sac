@@ -1,0 +1,9 @@
+{
+    "name": "moi-l-sac",
+    "description": "Make every sentence just a little bit better",
+    "version": "0.0.1",
+    "author": "frederic charette",
+    "license": "Apache License 2.0",
+    "maintainer": "frederic charette",
+    "main": "moilsac.js"    
+}
